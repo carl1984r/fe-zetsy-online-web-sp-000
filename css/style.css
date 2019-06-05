@@ -50,3 +50,7 @@ img {
 img#first:hover {
   border-color: #818181;
 }
+
+h1:hover {
+	color: black;
+}
