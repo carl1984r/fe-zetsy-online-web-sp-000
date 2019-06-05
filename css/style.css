@@ -46,3 +46,7 @@ img {
   border-width: 5px;
 	border-color: #9BABA5;
 }
+
+img:hover {
+  border-color: #818181;
+}
