@@ -47,6 +47,6 @@ img {
 	border-color: #9BABA5;
 }
 
-img:hover {
+img#first:hover {
   border-color: #818181;
 }
